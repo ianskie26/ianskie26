@@ -2,7 +2,7 @@ Hi there 👋 My name is Ian Luciano
 
 - 💻 Frontend Developer
 - 🌏 I am located in Manila, Philippines
-- 📫 You can contact me by [email](ian.luciano073@gmail.com)
+- 📫 You can contact me by [email](mailto:ian.luciano073@gmail.com)
 - 🌱 I’m currently learning React
 
 <hr>
