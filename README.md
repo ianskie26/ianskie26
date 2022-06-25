@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 My name is Ian Luciano.
 
 <!--
 **ianskie26/ianskie26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,14 +31,14 @@ Languages and Tools<br>
  
 - 🌱 I’m currently learning React
  
- - 📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ - 📫 How to reach me **ian.luciano073@gmail.com**
  
- - 👯 Connect with me ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ - 👯 Connect with me <a href="https://twitter.com/ianluciano_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="ianskie26"></a> <a href="https://www.linkedin.com/in/ianluciano" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ianluciano"></a>
  
- - ⚡ Fun fact: **Long** ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+ - ✊ **Long** ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianskie26&show_icons=true&locale=en&layout=compact" alt="ianskie26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianskie26&show_icons=true&locale=en" alt="ianskie26" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ianskie26&show_icons=true&locale=en" alt="ianskie26" /></p>
    
