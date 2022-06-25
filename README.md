@@ -34,8 +34,6 @@ Languages and Tools<br>
  - 📫 How to reach me **ian.luciano073@gmail.com**
  
  - 👯 Connect with me <a href="https://twitter.com/ianluciano_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="ianskie26"></a> <a href="https://www.linkedin.com/in/ianluciano" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ianluciano"></a>
- 
- - ✊ **Long** ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianskie26&show_icons=true&locale=en&layout=compact" alt="ianskie26" /></p>
