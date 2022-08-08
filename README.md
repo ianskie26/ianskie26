@@ -1,22 +1,24 @@
 Hi there 👋 My name is Ian Luciano
 
-- 💻 Frontend Developer
+- 💻 Data Analyst | Frontend Developer
 - 🌏 I am located in Manila, Philippines
 - 📫 You can contact me by [email](mailto:ian.luciano073@gmail.com)
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Python
 
 <hr>
 
 <b>Skills and Tools</b>
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB)
+  ![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
+  ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB)
+  ![Tableau](https://img.shields.io/badge/tableau-%2320232a.svg?style=for-the-badge&logo=tableau&logoColor=%2361DAFB)
+  ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB)
+  
   
  <hr>
  
